@@ -1,2 +1,2 @@
 # US-Bankruptcy-survival-analysis
-We use survival analysis and machine learning techniques to fit models that predict US bankruptcy from 1999 to 2018.
+We use survival analysis and machine learning techniques to fit models that predict US bankruptcy from 1999 to 2018. To read the paper, please click "us bankruptcy paper.pdf". To look at details, please visit the "codes-and-outputs" folder. This paper is the author's preparation of becoming a quantitative researcher/analyst in financial fields and is also an exhibition of statistical and financial analysis skills to potential hiring managers. The readers are free to use the results of paper with proper citation.
